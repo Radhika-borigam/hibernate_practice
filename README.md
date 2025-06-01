@@ -34,12 +34,20 @@ By working on this project, I have gained hands-on experience with:
 ## 📂 Structure Overview
 Hibernate_Demo_05/
 ├── src/
+
 │ └── main/
+
 │ ├── java/
+
 │ │ └── com/telusko/
+
 │ │ ├── Alien.java
+
 │ │ └── Main.java
+
 │ └── resources/
+
 │ └── hibernate.cfg.xml
+
 ├── pom.xml
 
